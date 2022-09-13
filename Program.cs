@@ -73,12 +73,3 @@ for (int i = 1; i <= number2; i++)
 {
 Console.Write($"{i*i*i} ");
 }
-
-
-
-// Функция ввода сообщения
-//int ReadInt(string message)
-//{
-//Console.Write(message);
-//return Convert.ToInt32(Console.ReadLine());
-//}
